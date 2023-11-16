@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.clima {
+    font-size: 24px;
+    margin-top: 200px;
+}
+
+#temperature {
+    font-weight: bold;
+}
+
+#location {
+    margin-top: -15px;
+    color: red;
+}
